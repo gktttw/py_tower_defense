@@ -1,0 +1,12 @@
+coin.wav
+Metal_Hits.wav
+Ship_Bell.wav
+Hit_with_Club.wav
+https://www.youtube.com/audiolibrary/soundeffects
+
+
+wrong_answer.wav
+http://www.orangefreesounds.com/
+
+Arpanauts.mp3
+http://ericskiff.com/music/
